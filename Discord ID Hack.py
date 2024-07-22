@@ -1,6 +1,6 @@
 # Pre-Load
 
-print("Loading Token ID Hack", end="\r")
+print("925894249671721013", end="\r")
 
 # Check
 
